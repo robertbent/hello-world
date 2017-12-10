@@ -5,3 +5,5 @@ Maintained by Robert Bent
 Dec 9, 2017
 
 Print text using Python code
+
+>> learning git diff command
